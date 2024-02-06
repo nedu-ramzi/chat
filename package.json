@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Real time chat app with rooms",
   "main": "app.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon ./src/app.ts",
